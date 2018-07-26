@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html, body {
+    font-family: 'Baumans',
+    cursive !important;
+     height: 100%;
+    span {
+           font-family: 'Baumans',
+           cursive !important;
+    }
+}
+
+body {
+    margin: 0;
+   
+}
